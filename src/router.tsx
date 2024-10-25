@@ -1,6 +1,7 @@
 import { lazy, Suspense } from "react";
 import { BrowserRouter, Route, Routes } from "react-router-dom";
 import Layout from "./layout/Layout";
+import Spinner from "./layout/components/Spinner";
 const HomePage = lazy(() => import('./pages/Inicio/HomePage'))
 const ServicesPage = lazy(() => import('./pages/Servicios/ServicesPage'))
 const AboutUsPage = lazy(() => import('./pages/Nosotros/AboutUsPage'))
@@ -13,25 +14,25 @@ export default function AppRouter() {
             <Route element={ <Layout/> }>
 
                 <Route path="/" element={ 
-                    <Suspense fallback="Cargando...">
+                    <Suspense fallback={ <Spinner/> }>
                         <HomePage/> 
                     </Suspense>
                 }/>
 
                 <Route path="servicios" element={ 
-                    <Suspense fallback="Cargando...">
+                    <Suspense fallback={ <Spinner/> }>
                         <ServicesPage/>
                     </Suspense>
                 }/>
 
                 <Route path="nosotros" element={ 
-                    <Suspense fallback="Cargando...">
+                    <Suspense fallback={ <Spinner/> }>
                         <AboutUsPage/>
                     </Suspense> 
                 }/>
 
                 <Route path="contacto" element={ 
-                    <Suspense fallback="Cargando...">
+                    <Suspense fallback={ <Spinner/> }>
                         <ContactPage/>
                     </Suspense>
                 }/>
