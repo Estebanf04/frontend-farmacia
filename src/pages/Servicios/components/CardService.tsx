@@ -1,5 +1,5 @@
 import { useTranslation } from "react-i18next";
-import { Link } from "react-router-dom";
+import { NavLink } from "react-router-dom";
 
 type CardServiceProps = {
     nombre: string,
@@ -21,9 +21,9 @@ export default function CardService({nombre, descripcion, imagen}: CardServicePr
               {descripcion}
             </p>
             <button className="text-white bg-transparent hover:scale-105 transition-transform border-2 border-white py-2 px-7 rounded-md font-bold">
-                <Link to='/contacto'>
+                <NavLink to='/contacto'>
                     {t('servicios.buttons.button-uno')}
-                </Link>
+                </NavLink>
             </button>
         </div>
         <div className="w-full sm:w-1/2 overflow-hidden">

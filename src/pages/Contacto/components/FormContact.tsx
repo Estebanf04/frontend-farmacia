@@ -28,7 +28,7 @@ export default function FormContact() {
         email: '',
         query: ''
     })
-    toast.success('Tu consulta ha sido enviada')
+    toast.success(`${t('notificacion')}`)
   }
 
   return (

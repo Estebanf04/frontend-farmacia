@@ -76,5 +76,6 @@
             "titulo": "Realiza tu consulta aqui",
             "placeholder-nombre": "Nombre completo"
         }
-    }
+    },
+    "notificacion": "Tu consulta ha sido enviada"
 }
