@@ -1,0 +1,80 @@
+{
+    "header": {
+        "subheader": "15% de descompte tota la setmana",
+        "links": {
+            "inicio": "Inici",
+            "servicios": "Serveis",
+            "nosotros": "Nosaltres",
+            "contacto": "Contacte"
+        }
+    },
+    "home": {
+        "frase-banner": "La teva salut és la nostra preocupació",
+        "boton-banner": "Veure més"
+    },
+    "servicios": {
+        "frase-banner": "Els nostres serveis",
+        "frase-seccion": "Alguns dels serveis que oferim són:",
+        "frase-consulta": "Si tens interès o dubtes sobre algun dels nostres serveis pots fer-nos una consulta al nostre formulari de contacte.",
+        "buttons": {
+            "button-uno": "Consulta'ns",
+            "button-dos": "Fes una consulta"
+        },
+        "lista-servicios": {
+            "nutricion": {
+                "nombre": "Servei de nutrició",
+                "descripcion": "A la nostra farmàcia, no només trobaràs medicaments, sinó també un servei de nutrició personalitzat. T'ajudem a assolir les teves metes de salut amb assessoria de llicenciats, que et guiaran perquè puguis integrar hàbits saludables a la teva vida quotidiana."
+            },
+            "capilar": {
+                "nombre": "Diagnòstic capil·lar",
+                "descripcion": "També oferim diagnòstic capil·lar especialitzat. Avaluem la salut del teu cabell i cuir cabellut per brindar-te solucions personalitzades i productes efectius. Cuida la teva cabellera amb nosaltres!"
+            },
+            "glucosa": {
+                "nombre": "Control de glucosa",
+                "descripcion": "També us oferim controls de glucosa i una assessoria personalitzada. Monitoritzeu la vostra salut de manera senzilla i efectiva, amb el suport del nostre equip especialitzat."
+            },
+            "seguimiento": {
+                "nombre": "Seguiment farmacoterapèutic",
+                "descripcion": "Et fem un seguiment farmacoterapèutic integral. Avaluem els teus tractaments i resolem les teves inquietuds per garantir un ús segur i efectiu dels medicaments. Cuidem de la teva salut!"
+            },
+            "tabaco": {
+                "nombre": "Deshabituació tabàquica",
+                "descripcion": "A Farmàcia Fandos comptem amb un programa de deshabituació tabàquica. Et proporcionem assessoria i eines per deixar de fumar, ajudant-te a assolir una vida més saludable."
+            },
+            "pulso": {
+                "nombre": "Mesurament del pols i pressió arterial",
+                "descripcion": "Podràs fer-te mesuraments de pols i pressió arterial gratuïtament. Mantingues la teva salut sota control amb resultats immediats i assessoria personalitzada. Visita'ns i cuida de tu mateix!"
+            }
+        }
+    },
+    "nosotros": {
+        "frase-banner": "Nosaltres",
+        "descripcion": {
+            "negrillas-uno": "A Farmàcia Fandos",
+            "texto": ", la salut i el benestar dels nostres clients són la nostra màxima prioritat. Amb més de 20 anys d'experiència al sector, ens hem consolidat com a referent a la ciutat de Barcelona, ​​oferint un servei proper i professional. El nostre equip de farmacèutics i especialistes està sempre disponible per brindar-te assessorament personalitzat, assegurant que trobis els productes i tractaments adequats per a les teves necessitats. Ens enorgulleix oferir una àmplia gamma de medicaments, productes de cura personal i solucions de salut, tot amb un compromís indestructible cap a la qualitat i l'atenció al client. Creiem en la importància de formar una relació de confiança amb els nostres clients, ajudant-los a portar un estil de vida saludable i feliç. Et convidem a visitar-nos i descobrir per què som la farmàcia de confiança de tantes famílies a Barcelona. ",
+            "negrillas-dos": "¡Som aquí per ajudar-te!"
+        },
+        "frase-clientes": "Això opinen els nostres clients",
+        "opiniones": {
+            "primera": "Excel·lent atenció al client, sempre disposats a ajudar amb un somriure.",
+            "segunda": "Gran varietat de productes i preus competitius, molt recomanable!",
+            "tercera": "Professionals molt informats que resolen tots els meus dubtes ràpidament.",
+            "cuarta": "Ambient acollidor i net, sempre em sento ben atès."
+        }
+    },
+    "contacto": {
+        "frase-banner": "Ubicació, Contacte i Horaris",
+        "cards": {
+            "ubicacion": "On som?",
+            "horarios": {
+                "hr": "Horaris",
+                "lunes-sabado": "Dilluns a Dissabte",
+                "domingo": "Diumenge - Tancat"
+            }
+        },
+        "formulario": {
+            "titulo": "Realitza la teva consulta aquí",
+            "placeholder-nombre": "Nom complet"
+        }
+    }
+}

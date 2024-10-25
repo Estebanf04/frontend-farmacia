@@ -1,0 +1,80 @@
+{
+    "header": {
+        "subheader": "15% de descuento toda la semana",
+        "links": {
+            "inicio": "Inicio",
+            "servicios": "Servicios",
+            "nosotros": "Nosotros",
+            "contacto": "Contacto"
+        }
+    },
+    "home": {
+        "frase-banner": "Tu salud es nuestra preocupación",
+        "boton-banner": "Ver más"
+    },
+    "servicios": {
+        "frase-banner": "Nuestros servicios",
+        "frase-seccion": "Algunos de los servicios que ofrecemos son:",
+        "frase-consulta": "Si tienes interes o dudas acerca de alguno de nuestros servicios puedes realizarnos una consulta en nuestro formulario de contacto.",
+        "buttons": {
+            "button-uno": "Consultanos",
+            "button-dos": "Haz una consulta"
+        },
+        "lista-servicios": {
+            "nutricion": {
+                "nombre": "Servicio de nutrición",
+                "descripcion": "En nuestra farmacia, no solo encontrarás medicamentos, sino también un servicio de nutrición personalizado. Te ayudamos a alcanzar tus metas de salud con asesoría de licenciados, quienes te guiaran para que puedas integrar habitos saludables a tu vida cotidiana."
+            },
+            "capilar": {
+                "nombre": "Diagnóstico capilar",
+                "descripcion": "Tambien ofrecemos diagnóstico capilar especializado. Evaluamos la salud de tu cabello y cuero cabelludo para brindarte soluciones personalizadas y productos efectivos. ¡Cuida tu melena con nosotros!"
+            },
+            "glucosa": {
+                "nombre": "Control de glucosa",
+                "descripcion": "Tambien te ofrecemos controles de glucosa y una asesoría personalizada. Monitorea tu salud de manera sencilla y efectiva, con el apoyo de nuestro equipo especializado."
+            },
+            "seguimiento": {
+                "nombre": "Seguimiento farmacoterapéutico",
+                "descripcion": "Te damos un seguimiento farmacoterapéutico integral. Evaluamos tus tratamientos y resolvemos tus inquietudes para garantizar un uso seguro y efectivo de los medicamentos. ¡Cuidamos de tu salud!"
+            },
+            "tabaco": {
+                "nombre": "Deshabituación tabáquica",
+                "descripcion": "En Farmacia Fandos contamos con un programa de deshabituación tabáquica. Te proporcionamos asesoría y herramientas para dejar de fumar, ayudándote a lograr una vida más saludable."
+            },
+            "pulso": {
+                "nombre": "Medición del pulso y presión arterial",
+                "descripcion": "Podras realizarte mediciones de pulso y presión arterial gratuitamente. Mantén tu salud bajo control con resultados inmediatos y asesoría personalizada. ¡Visítanos y cuida de ti mismo!"
+            }
+        }
+    },
+    "nosotros": {
+        "frase-banner": "Nosotros",
+        "descripcion": {
+            "negrillas-uno": "En Farmacia Fandos",
+            "texto": ", la salud y el bienestar de nuestros clientes son nuestra máxima prioridad. Con más de 20 años de experiencia en el sector, nos hemos consolidado como un referente en la ciudad de Barcelona, ofreciendo un servicio cercano y profesional. Nuestro equipo de farmacéuticos y especialistas está siempre disponible para brindarte asesoramiento personalizado, asegurando que encuentres los productos y tratamientos adecuados para tus necesidades. Nos enorgullece ofrecer una amplia gama de medicamentos, productos de cuidado personal y soluciones de salud, todo con un compromiso inquebrantable hacia la calidad y la atención al cliente. Creemos en la importancia de formar una relación de confianza con nuestros clientes, ayudándoles a llevar un estilo de vida saludable y feliz. Te invitamos a visitarnos y descubrir por qué somos la farmacia de confianza de tantas familias en Barcelona.",
+            "negrillas-dos": "¡Estamos aquí para ayudarte!"
+        },
+        "frase-clientes": "Esto opinan nuestros clientes",
+        "opiniones": {
+            "primera": "Excelente atención al cliente, siempre dispuestos a ayudar con una sonrisa.",
+            "segunda": "Gran variedad de productos y precios competitivos, ¡muy recomendable!",
+            "tercera": "Profesionales muy informados que resuelven todas mis dudas rápidamente.",
+            "cuarta": "Ambiente acogedor y limpio, siempre me siento bien atendido."
+        }
+    },
+    "contacto": {
+        "frase-banner": "Ubicación, Contacto y Horarios",
+        "cards": {
+            "ubicacion": "¿Dónde estamos?",
+            "horarios": {
+                "hr": "Horarios",
+                "lunes-sabado": "Lunes a Sábado",
+                "domingo": "Domingo - Cerrado"
+            }
+        },
+        "formulario": {
+            "titulo": "Realiza tu consulta aqui",
+            "placeholder-nombre": "Nombre completo"
+        }
+    }
+}
