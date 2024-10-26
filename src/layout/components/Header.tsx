@@ -118,8 +118,11 @@ export default function Header() {
                             {t('header.links.contacto')}
                           </NavLink>   
                       </nav>
-                      <div className="block sm:hidden cursor-pointer">
-                          <ChangeLanguage/>
+                      <div 
+                        className="block sm:hidden cursor-pointer"
+                        onClick={() => setMenuOpen(false)}
+                      >
+                        <ChangeLanguage/>
                       </div>
                 </div>
             </div>

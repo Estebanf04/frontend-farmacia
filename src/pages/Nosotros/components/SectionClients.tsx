@@ -13,25 +13,25 @@ export default function SectionClients() {
               <CardClientOpinion
                   image="mujer1.jpg"
                   nombre="Julia Saenz"
-                  opinion={t('nosotros.opiniones.primera')}
+                  opinion={`"${t('nosotros.opiniones.primera')}"`}
               />
 
               <CardClientOpinion
                   image="hombre1.jpg"
                   nombre="Xavier Martínez"
-                  opinion={t('nosotros.opiniones.segunda')}
+                  opinion={`"${t('nosotros.opiniones.segunda')}"`}
               />
 
               <CardClientOpinion
                   image="mujer2.jpg"
                   nombre="Laia Fernandez"
-                  opinion={t('nosotros.opiniones.tercera')}
+                  opinion={`"${t('nosotros.opiniones.tercera')}"`}
               />
 
               <CardClientOpinion
                   image="hombre2.jpeg"
                   nombre="Miguel Sánchez"
-                  opinion={t('nosotros.opiniones.cuarta')}
+                  opinion={`"${t('nosotros.opiniones.cuarta')}"`}
               />
         </div>
     </div>
